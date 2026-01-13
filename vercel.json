@@ -2,5 +2,7 @@
   "github": {
     "silent": true
   },
-  "regions": ["sgi1"]
+  "regions": [
+    "sin1"
+  ]
 }
